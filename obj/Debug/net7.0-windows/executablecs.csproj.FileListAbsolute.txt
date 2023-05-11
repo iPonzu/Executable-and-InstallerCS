@@ -1,0 +1,15 @@
+C:\Users\joao_\executablecs\bin\Debug\net7.0-windows\executablecs.exe
+C:\Users\joao_\executablecs\bin\Debug\net7.0-windows\executablecs.deps.json
+C:\Users\joao_\executablecs\bin\Debug\net7.0-windows\executablecs.runtimeconfig.json
+C:\Users\joao_\executablecs\bin\Debug\net7.0-windows\executablecs.dll
+C:\Users\joao_\executablecs\bin\Debug\net7.0-windows\executablecs.pdb
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.csproj.AssemblyReference.cache
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.AssemblyInfoInputs.cache
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.AssemblyInfo.cs
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.csproj.CoreCompileInputs.cache
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.dll
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\refint\executablecs.dll
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.pdb
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\executablecs.genruntimeconfig.cache
+C:\Users\joao_\executablecs\obj\Debug\net7.0-windows\ref\executablecs.dll
